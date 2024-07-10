@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Sezin</h1>
 <h3 align="center">A passionate psychology student, oriented towards data science</h3>
-<img align="right" alt="Coding" width="400" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
+<img align="right" alt="Coding" width="350" src="https://bedatasolutions.com/wp-content/uploads/2023/02/datascience.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sezinmumcu&label=Profile%20views&color=0e75b6&style=flat" alt="sezinmumcu" /> </p>
 
