@@ -62,6 +62,7 @@ I believe effective data analysis goes beyond statistics—it's about crafting n
 ## Current Focus
 🔭 Building expertise in predictive analytics and large dataset processing  
 🌱 Enhancing skills in data storytelling
+
 👯 Seeking collaborations on data-driven business analytics projects  
 💬 Let's talk about turning data into strategic value for organizations
 
