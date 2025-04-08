@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋 I'm Sezin!</h1>
-  <p>Data Analyst & Storyteller</p>
+  <p>Data Analytics & Storytelling</p>
 </div>
 
 ## About Me
