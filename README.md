@@ -38,19 +38,20 @@ I believe effective data analysis goes beyond statistics—it's about crafting n
 - Implemented BART model for abstractive summarization
 - Created word cloud visualizations to identify key themes across news categories
 
-### [**Hotel Review Analysis**](https://github.com/sezinmumcu/ML-projects) 
+### [**Hotel Review Analysis**](https://github.com/sezinmumcu/ML-Projects) 
 🏨 **Analysis of 515,000 European Hotel Reviews**
 - Analyzed a large dataset using classification, regression, and clustering techniques
 - Identified key predictors of positive hotel reviews (74% classification accuracy)
 - Conducted geographical analysis revealing regional patterns in hotel ratings
 - Delivered actionable insights for both travelers and hotel management
 
-### [**Online News Popularity Classification**](https://github.com/sezinmumcu/ML-projects) 
-📱 **Predicting Article Popularity from Content Characteristics**
-- Implemented multiple classification models with rigorous testing methodology
-- Conducted feature scaling analysis to optimize model performance
-- Performed robustness testing against various noise conditions
-- Achieved up to 67% classification accuracy with Random Forest models
+### [**Time Series Pattern Analysis**](https://github.com/sezinmumcu/TimeSeriesPatternAnalysis) 
+📊 **Advanced Visualization Techniques for Sequential Data**
+- Developed innovative visualization methods for complex time series data at Leiden University's CodeLAB
+- Created Line Tail Animation technique to reveal hidden patterns and state transitions in sequential data
+- Implemented Flow Field Analysis to transform temporal patterns into intuitive spatial representations
+- Built Joint Interval Distribution visualizations to identify behavioral dynamics and transition probabilities
+- Applied Python, Matplotlib, NumPy, and SciPy to develop customizable visualization functions
 
 ### [**Spotify2023**](https://github.com/sezinmumcu/Spotify2023) 
 🎵 **Predicting Song Streaming Performance**
