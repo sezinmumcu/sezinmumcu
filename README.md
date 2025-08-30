@@ -4,7 +4,7 @@
 </div>
 
 ## About Me
-🎓 Psychology student at Leiden University with expertise in data analytics  
+🎓 Psychology graduate from Leiden University with specialization in statistics & data science  
 📊 Transforming complex datasets into meaningful insights and actionable business recommendations  
 🌍 Based in Leiden, The Netherlands  
 🔍 Passionate about uncovering patterns in data and communicating results effectively
@@ -72,6 +72,3 @@ I believe effective data analysis goes beyond statistics—it's about crafting n
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sezinmumcu@gmail.com)
 
 ---
-<div align="center">
-  💡 Transforming complex data into clear stories that drive business decisions
-</div>
