@@ -10,7 +10,7 @@
 🔍 Passionate about uncovering patterns in data and communicating results effectively
 
 ## Data Storytelling Approach
-I believe effective data analysis goes beyond statistics—it's about crafting narratives that drive decision-making:
+I believe effective data analysis goes beyond statistics: it's about crafting narratives that drive decision-making:
 
 - 📈 **End-to-End Analysis**: From data cleaning to insights generation and visualization
 - 🔄 **Model Evaluation**: Implementing multiple models to find optimal solutions
