@@ -5,6 +5,7 @@
 
 ## About Me
 💼 Data analyst in IKEA NL Country Business Navigation Team
+
 🎓 Psychology graduate from Leiden University with specialization in statistics & data science  
 📊 Transforming complex datasets into meaningful insights and actionable business recommendations  
 🌍 Based in Leiden, The Netherlands  
